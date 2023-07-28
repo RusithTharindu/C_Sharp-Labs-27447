@@ -1,0 +1,16 @@
+E:\My Programs\Visual Studio\Lab 01 Q04\Lab 01 Q04\bin\Debug\Lab 01 Q04.exe.config
+E:\My Programs\Visual Studio\Lab 01 Q04\Lab 01 Q04\bin\Debug\Lab 01 Q04.exe
+E:\My Programs\Visual Studio\Lab 01 Q04\Lab 01 Q04\bin\Debug\Lab 01 Q04.pdb
+E:\My Programs\Visual Studio\Lab 01 Q04\Lab 01 Q04\obj\Debug\Lab 01 Q04.csproj.AssemblyReference.cache
+E:\My Programs\Visual Studio\Lab 01 Q04\Lab 01 Q04\obj\Debug\Lab 01 Q04.csproj.SuggestedBindingRedirects.cache
+E:\My Programs\Visual Studio\Lab 01 Q04\Lab 01 Q04\obj\Debug\Lab 01 Q04.csproj.CoreCompileInputs.cache
+E:\My Programs\Visual Studio\Lab 01 Q04\Lab 01 Q04\obj\Debug\Lab 01 Q04.exe
+E:\My Programs\Visual Studio\Lab 01 Q04\Lab 01 Q04\obj\Debug\Lab 01 Q04.pdb
+E:\My Programs\Visual Studio\UNI LABS\C#  Lab 01\Lab 01 Q04\Lab 01 Q04\bin\Debug\Lab 01 Q04.exe.config
+E:\My Programs\Visual Studio\UNI LABS\C#  Lab 01\Lab 01 Q04\Lab 01 Q04\bin\Debug\Lab 01 Q04.exe
+E:\My Programs\Visual Studio\UNI LABS\C#  Lab 01\Lab 01 Q04\Lab 01 Q04\bin\Debug\Lab 01 Q04.pdb
+E:\My Programs\Visual Studio\UNI LABS\C#  Lab 01\Lab 01 Q04\Lab 01 Q04\obj\Debug\Lab 01 Q04.csproj.AssemblyReference.cache
+E:\My Programs\Visual Studio\UNI LABS\C#  Lab 01\Lab 01 Q04\Lab 01 Q04\obj\Debug\Lab 01 Q04.csproj.SuggestedBindingRedirects.cache
+E:\My Programs\Visual Studio\UNI LABS\C#  Lab 01\Lab 01 Q04\Lab 01 Q04\obj\Debug\Lab 01 Q04.csproj.CoreCompileInputs.cache
+E:\My Programs\Visual Studio\UNI LABS\C#  Lab 01\Lab 01 Q04\Lab 01 Q04\obj\Debug\Lab 01 Q04.exe
+E:\My Programs\Visual Studio\UNI LABS\C#  Lab 01\Lab 01 Q04\Lab 01 Q04\obj\Debug\Lab 01 Q04.pdb

@@ -1,0 +1,8 @@
+E:\My Programs\Visual Studio\Lab 01 Q02\Lab 01 Q02\obj\Debug\Lab 01 Q02.csproj.AssemblyReference.cache
+E:\My Programs\Visual Studio\Lab 01 Q02\Lab 01 Q02\obj\Debug\Lab 01 Q02.csproj.SuggestedBindingRedirects.cache
+E:\My Programs\Visual Studio\Lab 01 Q02\Lab 01 Q02\obj\Debug\Lab 01 Q02.csproj.CoreCompileInputs.cache
+E:\My Programs\Visual Studio\Lab 01 Q02\Lab 01 Q02\bin\Debug\Lab 01 Q02.exe.config
+E:\My Programs\Visual Studio\Lab 01 Q02\Lab 01 Q02\bin\Debug\Lab 01 Q02.exe
+E:\My Programs\Visual Studio\Lab 01 Q02\Lab 01 Q02\bin\Debug\Lab 01 Q02.pdb
+E:\My Programs\Visual Studio\Lab 01 Q02\Lab 01 Q02\obj\Debug\Lab 01 Q02.exe
+E:\My Programs\Visual Studio\Lab 01 Q02\Lab 01 Q02\obj\Debug\Lab 01 Q02.pdb
