@@ -1,0 +1,8 @@
+E:\My Programs\Visual Studio\UNI LABS\C# Lab 07\Question 8\Question 8\obj\Debug\Question 8.csproj.AssemblyReference.cache
+E:\My Programs\Visual Studio\UNI LABS\C# Lab 07\Question 8\Question 8\obj\Debug\Question 8.csproj.SuggestedBindingRedirects.cache
+E:\My Programs\Visual Studio\UNI LABS\C# Lab 07\Question 8\Question 8\obj\Debug\Question 8.csproj.CoreCompileInputs.cache
+E:\My Programs\Visual Studio\UNI LABS\C# Lab 07\Question 8\Question 8\bin\Debug\Question 8.exe.config
+E:\My Programs\Visual Studio\UNI LABS\C# Lab 07\Question 8\Question 8\bin\Debug\Question 8.exe
+E:\My Programs\Visual Studio\UNI LABS\C# Lab 07\Question 8\Question 8\bin\Debug\Question 8.pdb
+E:\My Programs\Visual Studio\UNI LABS\C# Lab 07\Question 8\Question 8\obj\Debug\Question 8.exe
+E:\My Programs\Visual Studio\UNI LABS\C# Lab 07\Question 8\Question 8\obj\Debug\Question 8.pdb
